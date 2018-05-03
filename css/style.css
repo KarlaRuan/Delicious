@@ -35,7 +35,7 @@ table {
     min-height: 630px;
 }
 .bg-color{
-    background-color: RGBA(0, 0, 0, 0.61);
+    background-color:   #35411d  ;
     min-height: 630px;
 }
 #banner h2{
@@ -100,13 +100,13 @@ table {
 }
 
 .header-h {
-    color: #FFB03B;
+    color:  #222717 ;
     font-size: 50px;
     font-family: 'Satisfy', arial;
     font-weight: 400;
 }
 .header-p {
-    color: #9699a6;
+    color:  #222717 ;
     font-size: 25px;
 }
 .msg-row {
