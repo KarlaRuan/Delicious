@@ -1,0 +1,11 @@
+commit 6d148d6a2a39753df36a6a5670d38109aea8d292
+Author: Karla <karla.ruan@cceo.com.mx>
+Date:   Wed May 2 18:49:08 2018 -0500
+
+    Titulos traducidos
+
+commit d17313fc0e57a258a158bcc71a93cc58aa4176d6
+Author: Karla <karla.ruan@cceo.com.mx>
+Date:   Wed May 2 18:34:48 2018 -0500
+
+    Inicio
