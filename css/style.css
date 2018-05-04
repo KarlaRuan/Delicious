@@ -35,7 +35,7 @@ table {
     min-height: 630px;
 }
 .bg-color{
-    background-color: RGBA(0, 0, 0, 0.61);
+    background-color:   #35411d  ;
     min-height: 630px;
 }
 #banner h2{
@@ -100,14 +100,14 @@ table {
 }
 
 .header-h {
-    color: #FFB03B;
-    font-size: 46px;
-    font-family: 'Satisfy', sans-serif;
-    font-weight: 300;
+    color:  #222717 ;
+    font-size: 50px;
+    font-family: 'Satisfy', arial;
+    font-weight: 400;
 }
 .header-p {
-    color: #9699a6;
-    font-size: 16px;
+    color:  #222717 ;
+    font-size: 25px;
 }
 .msg-row {
     margin-top: 56px;
@@ -358,7 +358,7 @@ table {
     float: left;
     color: #B1B1B1;
     font-family: Satisfy,'Open Sans',arial;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
 }
 .menu-restaurant span.clearfix {
     position: relative;
